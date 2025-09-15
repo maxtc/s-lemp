@@ -1,6 +1,6 @@
 # S-LEMP Stack Installation Scripts for Ubuntu
 
-A complete, production-ready LEMP (Linux, Nginx, MariaDB, PHP) stack installation and removal script specifically optimized for Laravel applications on Ubuntu servers.
+Полный, готовый к использованию скрипт установки и удаления стека LEMP (Linux, Nginx, MariaDB, PHP), специально оптимизированный для приложений Laravel на серверах Ubuntu.
 
 ![S-LEMP-THUMBNAIL](S-LEMP.png)
 
